@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_sample"
+  site-url: "https://sush4nt.github.io/nbdev_sample"
+  description: "A sample repository to test functionalities of nbdev package."
+  repo-branch: main
+  repo-url: "https://github.com/sush4nt/nbdev_sample"
